@@ -3,7 +3,7 @@
 </br>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=GgyizgXwXAg" target="_blank">
+  <a href="https://www.youtube.com/watch?v=GgyizgXwXAg" target="">
     <img src="https://i.ytimg.com/vi/GgyizgXwXAg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYBOkqWxHpm8j8JoCLqBlRl789ng" alt="Redis API">
   </a>
 </div>
