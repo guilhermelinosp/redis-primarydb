@@ -20,18 +20,6 @@
 
 To get started with this project, follow the instructions below.
 
-### Prerequisites
-
-Before you can start the project, you need to have the following software installed on your machine:
-
-- Git
-- Docker
-- Docker Compose
-
-### Installing
-
-To install the project, follow these steps:
-
 1. Clone this repository onto your local machine using the following command:
 
    ```shell
