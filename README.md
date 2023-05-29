@@ -12,7 +12,7 @@
 
 ## Technologies used in the project
 
-- .Net 7.0
+- .NET 7.0
 - Docker Compose
 - Redis
 
