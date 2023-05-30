@@ -29,7 +29,7 @@ To get started with this project, follow the instructions below.
 2. Navigate into the cloned directory:
 
    ```shell
-   cd course-redis-api
+   cd redis-primarydb
    ```
 
 3. Start the Docker container using Docker Compose:
