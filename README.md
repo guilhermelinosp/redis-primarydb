@@ -1,4 +1,4 @@
-# <div align="center"> Redis as a Primary DB using a .NET 6 API </div>
+# <div align="center"> Redis as a Primary DB </div>
 
 </br>
 
@@ -12,7 +12,7 @@
 
 ## Technologies used in the project
 
-- .NET 6.0
+- .NET 7.0
 - Docker Compose
 - Redis
 
