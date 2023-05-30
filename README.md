@@ -1,4 +1,4 @@
-# <div align="center"> Redis API </div>
+# <div align="center"> Redis as a Primary DB using a .NET 6 API </div>
 
 </br>
 
@@ -12,7 +12,7 @@
 
 ## Technologies used in the project
 
-- .NET 7.0
+- .NET 6.0
 - Docker Compose
 - Redis
 
@@ -23,7 +23,7 @@ To get started with this project, follow the instructions below.
 1. Clone this repository onto your local machine using the following command:
 
    ```shell
-   git clone https://github.com/guilhermelinosp/course-redis-api.git
+   git clone https://github.com/guilhermelinosp/redis-primarydb.git
    ```
 
 2. Navigate into the cloned directory:
